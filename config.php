@@ -10,5 +10,4 @@ if (!$yhendus) {
     die("Sa jälle ebaõnnestusid!");
 }
 
-s
 ?>
